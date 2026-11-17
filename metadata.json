@@ -1,0 +1,7 @@
+{
+  "name": "Quick Photo",
+  "description": "Cross-device photo capture, document scanning, file transfer, and bidirectional clipboard sync.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
